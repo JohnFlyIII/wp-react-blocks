@@ -1,7 +1,7 @@
 {
-  "name": "vite-component-library-template",
+  "name": "jf-components",
   "private": false,
-  "version": "2.0.4",
+  "version": "1.0.0",
   "packageManager": "pnpm@8.4.0",
   "repository": {
     "type": "git",
@@ -33,6 +33,7 @@
     "prepack": "json -f package.json -I -e \"delete this.devDependencies; delete this.dependencies\""
   },
   "dependencies": {
+    "@material-tailwind/react": "^2.1.8",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
