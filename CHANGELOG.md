@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/JohnFlyIII/wp-react-blocks/compare/v1.0.2...v1.0.3) (2023-12-22)
+
+
+### Bug Fixes
+
+* publish as public packages ([f0d90ed](https://github.com/JohnFlyIII/wp-react-blocks/commit/f0d90edd236adfaaac5db9b314ba44fd1f9118e4))
+
 ## [1.0.2](https://github.com/JohnFlyIII/wp-react-blocks/compare/v1.0.1...v1.0.2) (2023-12-22)
 
 
