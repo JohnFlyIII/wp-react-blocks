@@ -5,7 +5,7 @@
   "packageManager": "pnpm@8.4.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/IgnacioNMiranda/vite-component-library-template"
+    "url": "https://github.com/JohnFlyIII/wp-react-blocks"
   },
   "main": "./dist/vite-component-library-template.umd.js",
   "module": "./dist/vite-component-library-template.es.js",
