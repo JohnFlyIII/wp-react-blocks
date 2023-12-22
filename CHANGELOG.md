@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.2](https://github.com/JohnFlyIII/wp-react-blocks/compare/v1.0.1...v1.0.2) (2023-12-22)
+
+
+### Miscellaneous Chores
+
+* release 1.0.1 ([dfc64bb](https://github.com/JohnFlyIII/wp-react-blocks/commit/dfc64bbbe330ae34e045c92dbda64d456af70b4b))
+* release 1.0.2 ([9b88c34](https://github.com/JohnFlyIII/wp-react-blocks/commit/9b88c3496cc05d9671a44c409c1cadc8812e2132))
+
 ## [2.0.4](https://github.com/IgnacioNMiranda/vite-component-library-template/compare/v2.0.3...v2.0.4) (2023-09-10)
 
 
