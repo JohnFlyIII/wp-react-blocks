@@ -1,5 +1,5 @@
 {
-  "name": "jf-components",
+  "name": "@johnflyiii/jf-components",
   "private": false,
   "version": "1.0.0",
   "packageManager": "pnpm@8.4.0",
