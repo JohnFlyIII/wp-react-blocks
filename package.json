@@ -1,7 +1,7 @@
 {
   "name": "@johnflyiii/jf-components",
   "private": false,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "packageManager": "pnpm@8.4.0",
   "repository": {
     "type": "git",
