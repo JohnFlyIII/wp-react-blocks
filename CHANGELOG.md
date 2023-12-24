@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/JohnFlyIII/wp-react-blocks/compare/v1.0.3...v1.0.4) (2023-12-24)
+
+
+### Miscellaneous Chores
+
+* release 1.0.4 ([b8ca37d](https://github.com/JohnFlyIII/wp-react-blocks/commit/b8ca37d90f483760fd7b73e0f1a48e531e7ca0bf))
+
 ## [1.0.3](https://github.com/JohnFlyIII/wp-react-blocks/compare/v1.0.2...v1.0.3) (2023-12-22)
 
 
