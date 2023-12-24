@@ -7,14 +7,14 @@
     "type": "git",
     "url": "https://github.com/JohnFlyIII/wp-react-blocks"
   },
-  "main": "./dist/vite-component-library-template.umd.js",
-  "module": "./dist/vite-component-library-template.es.js",
+  "main": "./dist/jf-components.umd.js",
+  "module": "./dist/jf-components.es.js",
   "types": "./dist/index.d.ts",
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
-      "import": "./dist/vite-component-library-template.es.js",
-      "require": "./dist/vite-component-library-template.umd.js"
+      "import": "./dist/jf-components.es.js",
+      "require": "./dist/jf-components.umd.js"
     },
     "./dist/style.css": "./dist/style.css"
   },
